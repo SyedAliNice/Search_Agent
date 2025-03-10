@@ -1,0 +1,15 @@
+streamlit
+langchain_groq
+langchain_core
+langchain_groq
+langserve[all]
+transformers
+langchain-chroma
+bs4
+arxiv
+wikipedia
+faiss-cpu
+langchain-google-generativeai
+generativeai
+genai
+-U duckduckgo-search
